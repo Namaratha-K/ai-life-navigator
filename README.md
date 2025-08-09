@@ -50,4 +50,24 @@ Inspired by futuristic story systems, the AI Life Navigator:
 ## 📜 License
 MIT License — Free to use and modify.
 
+---
+## Features from Replit
+**Initial version:**
+A cyberpunk-themed AI life navigator providing decision support and daily planning with futuristic guidance
+- Personal life decision support system
+- Daily planning and task organization
+- AI-powered guidance and recommendations
+- Goal tracking and progress monitoring
+- Decision matrix analysis
+- Future scenario planning
+- Motivational coaching features
+- Simple chat interface for guidance
+**Later**
+- Agent can work on these tasks after the initial version
+- Add voice interaction capabilities
+- Implement machine learning for personalized recommendations
+- Create advanced goal visualization and analytics
+- Add integration with calendar and productivity apps
+
+
 
